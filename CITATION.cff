@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use PETL, please cite the associated paper."
+title: "PETL: Parametric Joint-Enhanced Truss Lattices"
+type: software
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Haochen
+  - family-names: Sun
+    given-names: Bingteng
+  - family-names: Cao
+    given-names: Lingxin
+  - family-names: Yan
+    given-names: Xin
+  - family-names: Lu
+    given-names: Lin
+preferred-citation:
+  type: article
+  title: "A parametric model of joint-enhanced truss lattices with optimization for superior mechanical properties"
+  authors:
+    - family-names: Li
+      given-names: Haochen
+    - family-names: Sun
+      given-names: Bingteng
+    - family-names: Cao
+      given-names: Lingxin
+    - family-names: Yan
+      given-names: Xin
+    - family-names: Lu
+      given-names: Lin
+  journal: "Materials & Design"
+  volume: "254"
+  start: "113969"
+  year: 2025
+  doi: "10.1016/j.matdes.2025.113969"

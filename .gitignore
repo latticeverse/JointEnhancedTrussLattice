@@ -1,0 +1,14 @@
+/build*/
+/tests/
+/out/
+/output/
+/ExternalModules/
+/.vs/
+/.vscode/
+__pycache__/
+*.pyc
+CMakeUserPresets.json
+compile_commands.json
+*.user
+*.suo
+.DS_Store
